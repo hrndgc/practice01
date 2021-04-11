@@ -1,10 +1,10 @@
 package practice01;
 
-public class practice01 {
+public class NewSeref {
 
 	public static void main(String[] args) {
-		System.out.println("Test proje");
-		
+		// TODO Auto-generated method stub
+
 	}
 
 }

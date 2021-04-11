@@ -6,6 +6,7 @@ public class Yakup {
 		// TODO Auto-generated method stub
 		System.out.println("Yakup ****");
 System.out.println("yakup tan 2.");
+System.out.println("YAkup Yeniden");
 	}
 
 }
